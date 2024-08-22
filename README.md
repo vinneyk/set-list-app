@@ -14,6 +14,10 @@
   * Source - sync song files with branching for individuals 
   * Social -
     * Notify band members about other members' practice info
+    * Leave notes for bandmates to call out specific sections
+      * @Mentions
+      * Complete actions
+      * Reply thread
 * Playlist
   * Generate playlists based on set lists
   * Define dynamic playlists based on tags (etc?)
